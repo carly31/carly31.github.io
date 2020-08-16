@@ -8,7 +8,8 @@ box-sizing: border-box;
 }
 
 body {
-background-color: #ccc;
+background: #d2b098;
+
 margin: 2em;
 color: rgb(128, 71, 25);
 
@@ -29,6 +30,12 @@ color: rgb(128, 71, 25);
 .img-container > img:nth-child(odd) {
 	
 	align-self: center;
+	
+}
+.img-container > img:nth-child(odd) {
+	//border: 10px solid rgb(185, 185, 185);
+	
+	
 }
 
 img {
@@ -51,7 +58,7 @@ img {
 	align-self: center;
 	text-align: center;
 	padding: 0.8em;
-	
+	text-shadow: 5px 5px 7px #ffe7d6;
 		
 }
 
@@ -71,7 +78,7 @@ footer {
 .title {
 	font-size: 3em;
 	font-family: 'Jacques Francois', serif;
-	color: rgb(75, 42, 15);
+	color: #4b2a0f;
 }
 
 .sub-title {
