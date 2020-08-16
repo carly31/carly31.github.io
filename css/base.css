@@ -1,0 +1,45 @@
+* {
+box-sizing: border-box;
+}
+body {
+background-color: #ccc;
+margin: 2em;
+
+}
+
+.img-container {
+	display: grid;
+	grid-template-columns: 1fr 1.2fr;
+	gap: 1em;
+	
+}
+
+.img-container > img:nth-child(odd) {
+	//border: 2px solid red;
+	align-self: center;
+}
+
+img {
+	width: 100%;
+}
+
+.tall {
+	width: max-content;
+	justify-self: center;
+}
+
+.quote {
+	font-family: 'IM Fell English', serif;
+	align-self: center;
+	text-align: center;
+	padding: 1em;
+	color: rgb(128, 71, 25);
+		
+}
+
+
+footer {
+	padding: 2em;
+	text-align: center;
+	font-size: 1.5em;;
+}
