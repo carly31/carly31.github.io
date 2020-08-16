@@ -11,7 +11,7 @@ body {
 background: #d2b098;
 
 margin: 2em;
-color: rgb(128, 71, 25);
+color: #804719;
 
 }
 
@@ -66,8 +66,9 @@ img {
 footer {
 	
 	padding-top: 2em;
+	padding-bottom: 2em;
 	text-align: center;
-	font-size: 1.2em;;
+	font-size: 1.2em;
 }
 
 .title-container {
@@ -79,6 +80,8 @@ footer {
 	font-size: 3em;
 	font-family: 'Jacques Francois', serif;
 	color: #4b2a0f;
+	border-bottom: 4px solid #4b2a0f;
+	margin-bottom: 0;
 }
 
 .sub-title {
