@@ -55,4 +55,9 @@
         display: block;
        
     }
+    
+    #st-1 > div > img {
+        position: static !important;       
+
+    }
 }
