@@ -93,3 +93,8 @@ img {
 }
 
 
+.follow-accounts {
+	display: inline;
+	margin-right: 1em;
+	margin-left: 1em;
+}
