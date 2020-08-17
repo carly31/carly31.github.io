@@ -97,3 +97,7 @@ img {
 	display: inline;
 	margin: 1em;
 }
+
+#st-1 .st-btn > img {
+	position: initial;
+}
