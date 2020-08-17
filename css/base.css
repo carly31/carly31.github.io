@@ -62,8 +62,10 @@ img {
 		
 }
 
-
-footer {
+.copyright {
+	border-bottom: 4px solid #4b2a0f;
+}
+.footer {
 	
 	padding-top: 2em;
 	padding-bottom: 2em;
