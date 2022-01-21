@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: carly31.github.io
+Token: 973e432ae6932b54ff0a0f1da4675663ce26dad843f4de11ccf8c6306e99948b
